@@ -1,4 +1,4 @@
-import streamlit ==22.0.3
+import streamlit
 import pandas 
 import numpy
 import pickle

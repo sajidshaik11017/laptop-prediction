@@ -1,3 +1,4 @@
 import pandas 
 import numpy
 import pickle
+streamlit==1.25.0
